@@ -92,3 +92,6 @@ The  Dice coefficient loss is a measure of the dissimilarity between the predict
 |Dice Coefficient    |0.962 |
 
 ![image](https://user-images.githubusercontent.com/54477107/236578711-2877a586-7e5a-4b2e-9316-843de591a07f.png)
+
+# Models Weights
+You can find the benchmark weights [here](https://drive.google.com/drive/folders/1Vft3w4suFpW7CBt3uHGu9AXV_Y7jRl4T?usp=sharing)
