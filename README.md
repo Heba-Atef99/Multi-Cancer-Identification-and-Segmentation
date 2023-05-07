@@ -95,3 +95,33 @@ The  Dice coefficient loss is a measure of the dissimilarity between the predict
 
 # Models Weights
 You can find the benchmark weights [here](https://drive.google.com/drive/folders/1Vft3w4suFpW7CBt3uHGu9AXV_Y7jRl4T?usp=sharing)
+
+# Contributors
+<table align="center">
+  <tr>
+    <td align="center">
+    <a href="https://github.com/Heba-Atef99" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/54477107?v=4" width="100px;" alt="Heba Atef"/>
+    <br />
+    <sub><b>Heba Atef</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Alaa-Sherif" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/43891138?s=120&v=4" width="100px;" alt="Alaa Sherif"/>
+    <br />
+    <sub><b>Alaa Sherif</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/IshraqAhmedJamaluddin" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/46565672?s=120&v=4" width="100px;" alt="Ishraq Ahmed"/>
+    <br />
+    <sub><b>Ishraq Ahmed</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/HamsaWahed" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/98246082?s=120&v=4" width="100px;" alt="Hamsa Wahed"/>
+    <br />
+    <sub><b>Hamsa Wahed</b></sub></a>
+    </td>
+  </tr>
+ </table>
